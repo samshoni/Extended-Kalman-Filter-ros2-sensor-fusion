@@ -223,22 +223,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sam Shoni**
 - GitHub: [@samshoni](https://github.com/samshoni)
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Your email]
+- LinkedIn: https://www.linkedin.com/in/sam-shoni-7b2b94301/
+- Email: samshoni10@gmail.com
 
-## 🙏 Acknowledgments
-
-- ROS2 Documentation and Community
-- robot_localization package maintainers
-- Autonomous Addison robotics tutorials
-
-## 📚 References
-
-1. [ROS2 Humble Documentation](https://docs.ros.org/en/humble/)
-2. [robot_localization Package](https://github.com/cra-ros-pkg/robot_localization)
-3. Extended Kalman Filter: Theory and Applications
-4. Probabilistic Robotics by Thrun, Burgard & Fox
-
----
 
 ⭐ **If you find this project useful, please consider giving it a star!**
